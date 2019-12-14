@@ -1,1 +1,1 @@
-import sys
+print("Hello, Mike!")
