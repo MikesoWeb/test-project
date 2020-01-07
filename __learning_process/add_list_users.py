@@ -1,4 +1,5 @@
-command = ['выход', 'exit', 'Q', 'q', ' ']
+
+command = ['выход', 'exit', 'Q', 'q', ' ', '']
 b = []
 command = ['выход', 'exit', 'Q', 'q', ' ', '']
 b = []
