@@ -41,4 +41,3 @@ for data in data_users.items():
 print('Всего вопросов: ', count_question)
 print()
 print(f'Спасибо за участие. Токены в размере {count_answer * 5} будут начислены вам в течении пары минут.')
-

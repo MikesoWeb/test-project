@@ -1,0 +1,1 @@
+bd_users_old = ["Jack", "Mike", "Serg"]
